@@ -1,6 +1,6 @@
 # Sign Language Classification (Indian Sign Language)
 
-A MATLAB-based CNN project to classify Indian Sign Language (ISL) hand gestures using image classification. The model is trained on a labeled dataset and saved as `sign_language_model.mat` for future deployment.
+A MATLAB-based CNN project to classify Alphabetic Characters hand gestures using image classification. The model is trained on a labeled dataset and saved as `sign_language_model.mat` for future deployment.
 
 ## Model Overview
 
