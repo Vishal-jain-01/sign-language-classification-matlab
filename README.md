@@ -1,4 +1,4 @@
-# Sign Language Classification (Indian Sign Language)
+# Sign Language Classification (Alphabetic Character Hand Gestures)
 
 A MATLAB-based CNN project to classify Alphabetic Characters hand gestures using image classification. The model is trained on a labeled dataset and saved as `sign_language_model.mat` for future deployment.
 
